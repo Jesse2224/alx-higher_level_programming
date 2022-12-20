@@ -1,6 +1,8 @@
 #!/usr/bin/python3
+# 103-magic_class.py
 """Magic class from a given ByteCode."""
 import math
+
 
 class MagicClass:
     """Initialization of the MagicClass."""
